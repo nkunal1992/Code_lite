@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="00 Getting Started" Database="" Version="10.0.0">
+  <Project Name="01_Sum" Path="01_Sum/01_Sum.project" Active="No"/>
+  <Project Name="02_Power" Path="02_Power/02_Power.project" Active="No"/>
+  <Project Name="03_Helper_Function" Path="03_Helper_Function/03_Helper_Function.project" Active="No"/>
+  <Project Name="04_Data_Structure" Path="04_Data_Structure/04_Data_Structure.project" Active="No"/>
+  <Project Name="05_linked_list" Path="05_linked_list/05_linked_list.project" Active="No"/>
+  <Project Name="06_binary_tree" Path="06_binary_tree/06_binary_tree.project" Active="No"/>
+  <Project Name="07_String" Path="07_String/07_String.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="01_Sum" ConfigName="Debug"/>
+      <Project Name="02_Power" ConfigName="Debug"/>
+      <Project Name="03_Helper_Function" ConfigName="Debug"/>
+      <Project Name="04_Data_Structure" ConfigName="Debug"/>
+      <Project Name="05_linked_list" ConfigName="Debug"/>
+      <Project Name="06_binary_tree" ConfigName="Debug"/>
+      <Project Name="07_String" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="01_Sum" ConfigName="Release"/>
+      <Project Name="02_Power" ConfigName="Release"/>
+      <Project Name="03_Helper_Function" ConfigName="Release"/>
+      <Project Name="04_Data_Structure" ConfigName="Release"/>
+      <Project Name="05_linked_list" ConfigName="Release"/>
+      <Project Name="06_binary_tree" ConfigName="Release"/>
+      <Project Name="07_String" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

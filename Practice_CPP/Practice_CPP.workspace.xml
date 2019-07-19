@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Practice_CPP" Database="" Version="10.0.0">
+  <Project Name="Practice1" Path="Practice1/Practice1.project" Active="No"/>
+  <Project Name="RegularExpression" Path="RegularExpression/RegularExpression.project" Active="No"/>
+  <Project Name="string" Path="string/string.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Practice1" ConfigName="Debug"/>
+      <Project Name="RegularExpression" ConfigName="Debug"/>
+      <Project Name="string" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Practice1" ConfigName="Release"/>
+      <Project Name="RegularExpression" ConfigName="Release"/>
+      <Project Name="string" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
